@@ -1,37 +1,21 @@
 ## Welcome to Econometrics Cirlce
 
-You can use the [editor on GitHub](https://github.com/Econometrics666/econometrics666.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### [计量经济圈公众号](https://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&mid=2448055737&idx=1&sn=ec6c04081122d7d935640f16adf732a2&chksm=b323809784540981066dd0956c117ba87cd1df50733e67890150c060191f5c5f16e2dcddf421#rd)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+计量经济圈是一个专业的计量爱好者社区，致力于把国内外计量经济圈内的趋势第一时间呈现。
 
-### Markdown
+我们希望以更加客观公正的立场来讲述研究发现，以更加准确实用的态度来提升计量实证能力。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### [计量经济圈知识群](https://appvwrepkgi6643.h5.xiaoeknow.com/)
 
-- Bulleted
-- List
+计量经济圈知识群致力于推动中国计量理论和实证技能的提升，以海内外高校研究生和教师为主。
 
-1. Numbered
-2. List
+希望你来与群里理论和实证大牛讨论计量问题，因为知识唯有经过不断捶打和提炼方能成为精华。
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 支持或联系
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Econometrics666/econometrics666.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+欢迎给圈子建议或投稿或荐稿或问题，计量经济圈公共邮箱：econometrics666@sina.cn     
